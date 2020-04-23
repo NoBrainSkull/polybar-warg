@@ -6,7 +6,7 @@ index-sort = true
 wrapping-scroll = false
 
 label-focused = %index%
-label-focused-foreground = ${colors.white}
+label-focused-foreground = ${colors.warg-purple}
 label-focused-padding = 1
 
 label-unfocused = %index%
